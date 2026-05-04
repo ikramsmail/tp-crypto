@@ -1,0 +1,13 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.analysis.extraPaths": [
+        "./classical",
+        "./key_exchange",
+        "./asymmetric",
+        "./modern",
+        "./hashing",
+        "./asymmetric/signatures/signature_",
+        "./asymmetric/signatures/signature_",
+        "./signatures/signature_"
+    ]
+}
