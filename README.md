@@ -23,26 +23,26 @@ Learn the role of hash functions in data integrity
 Explore digital signatures and authentication systems
 Build a strong foundation in cybersecurity principles
 ## Implemented Algorithms
-##### Classical Cryptography
+### Classical Cryptography
 Caesar Cipher
 Affine Cipher
 Vigenère Cipher
 Hill Cipher
 Playfair Cipher
-##### Symmetric Cryptography
+### Symmetric Cryptography
 AES
 DES
 RC4
 RC6
-##### Asymmetric Cryptography
+### Asymmetric Cryptography
 RSA
 ElGamal
-##### Key Exchange
+### Key Exchange
 Diffie-Hellman Protocol
-##### Hash Functions
+### Hash Functions
 MD5
 SHA-256
-##### Digital Signatures
+### Digital Signatures
 RSA Signatures
 el gamal signatures
 DSA
