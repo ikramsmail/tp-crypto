@@ -82,6 +82,3 @@ Bridge the gap between theory and implementation
 ## ⚠️ Disclaimer
 This project is developed for educational purposes only.
 It is not optimized for production-level security use.
-
-This project is developed for educational purposes only.
-It is not optimized for production-level security use.
